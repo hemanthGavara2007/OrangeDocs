@@ -4,8 +4,8 @@
 OrangeDocs is a local, self-hosted solution to digitize handwritten documents and perform Machine Learning-based intelligent auditing of the documents without sending any sensitive information to the cloud.
 
 ## 👥 Contributors
-  Hemanth Gavara
-  Snehal GSS
+  Hemanth Gavara,
+  Snehal GSS ,
   Rashmi P
 
 ## 🛠️ Tech Stack
