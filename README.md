@@ -1,5 +1,6 @@
 # 🍊 OrangeDocs - Privacy First Intelligent Document Auditing 🏆
 **Consolation Prize Winner (5K) at the JNTUK Artemis Hackathon!**
+<img width="1774" height="887" alt="ChatGPT Image Oct 9, 2026 at 05_02_13 PM" src="https://github.com/user-attachments/assets/c1e83557-1f6d-428e-8720-54919856b937" />
 
 OrangeDocs is a local, self-hosted solution to digitize handwritten documents and perform Machine Learning-based intelligent auditing of the documents without sending any sensitive information to the cloud.
 
