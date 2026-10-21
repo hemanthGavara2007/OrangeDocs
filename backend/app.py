@@ -52,11 +52,8 @@ COL_LABEL   = (0.60, 0.60, 0.60)
 FONT_BODY   = "Helvetica"
 FONT_BOLD   = "Helvetica-Bold"
 
-# ── Session store (in-memory, keyed by session_id) ────────────────────────────
-# Each session = list of page dicts:
-#   {"type": "handwriting", "image": PIL.Image, "label": str}
-#   {"type": "diagram",     "image": PIL.Image, "label": str}
-_sessions = {}   # session_id -> {"pages": [...], "created": float}
+
+_sessions = {}  
 SESSION_TTL = 3600  # 1 hour
 
 def _get_session(sid):
